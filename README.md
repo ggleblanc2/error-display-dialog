@@ -10,6 +10,8 @@ Left-clicking the button brings up the error display dialog.
 
 ![Error Display Dialog](images/ErrorMessageDialog.png)
 
+If you’re not familiar with Java Swing, Oracle has an excellent tutorial to get you started, [Creating a GUI With Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html). Skip the Netbeans section.
+
 To use the error display dialog, copy the `ErrorDisplayDialog` class into your project.  The class requires no other classes.
 
 Whenever you create a try-catch block in your Swing GUI, instead of coding this:
